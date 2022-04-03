@@ -1,6 +1,9 @@
 # C_-mini-progect-marrige
 #Output
 
+
+![Screenshot 2022-04-04 at 5 02 08 AM](https://user-images.githubusercontent.com/78723011/161454450-ad75d081-46ec-4096-b797-65b42eec5b45.png)
+
 ![Screenshot 2022-04-04 at 4 57 43 AM](https://user-images.githubusercontent.com/78723011/161454412-64241720-e6d5-4eba-9a46-8706606dc543.png)
 
 ![Screenshot 2022-04-04 at 4 58 11 AM](https://user-images.githubusercontent.com/78723011/161454419-f294d785-37a8-4253-a8fd-873fa0d49b6f.png)
