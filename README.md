@@ -13,6 +13,3 @@
 ![Screenshot 2022-04-04 at 4 59 35 AM](https://user-images.githubusercontent.com/78723011/161454435-da167ef9-1a3d-4c64-98cc-d3b3469b34d5.png)
 
 ![Screenshot 2022-04-04 at 4 59 56 AM](https://user-images.githubusercontent.com/78723011/161454446-86a094be-9c66-42ae-8ecb-f652d9e8ceeb.png)
-
-![Screenshot 2022-04-04 at 5 02 08 AM](https://user-images.githubusercontent.com/78723011/161454450-ad75d081-46ec-4096-b797-65b42eec5b45.png)
-
